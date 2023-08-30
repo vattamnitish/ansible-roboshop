@@ -1,8 +1,2 @@
 [mongodb]
-mongodb.35.175.230.101
-
-[catalogue]
-catalogue.joindevops.online
-
-[web]
-web.joindevops.online
+mongodb.172.31.46.89
